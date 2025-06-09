@@ -20,5 +20,10 @@ codes/
 └── results/                       # 结果保存目录（运行后生成）
     ├── models/                    # 保存的模型权重
     └── figures/                   # 生成的图表和可视化
+data/
+reports/
 
-其余数据以及数据集和训练模型权重在Google drive中：
+
+
+其余数据以及数据集和训练模型权重在Google drive中：https://drive.google.com/drive/folders/1jPkVLK2V9giy1V8U7c1SLhB4oSJjQoNC?usp=sharing
+（其余在此为出现的内容均在上述Google drive URL中）
